@@ -595,6 +595,7 @@ body {
   position: relative;
   top: -120px;
   display: none;
+  font-size: 13px;
 }
 
 
@@ -632,7 +633,8 @@ body {
 
 .ourstory p {
   margin-bottom: 80px;
-  font-size: 18px;
+  font-size: 12px;
+
 
 
 }
@@ -944,6 +946,17 @@ color: black;
   position: relative;
   top: 10px;
 }
+
+.jobcard a:hover
+{
+  background-color: #d4af35;
+  color: black;
+   
+}
+.jobcard:hover{
+  transform: translateY(-10px);
+}
+
 
 /* <!-- create web develop page --> */
 

@@ -130,62 +130,62 @@ function filter() {
 
 // create for index page service section 
 
-let web=document.getElementById("Web Development");
+let web=document.getElementById("Web-Development");
 if(web)
 {
 web.addEventListener("click",()=>{
 
-window.location.href = "web Developmentpage.html";
+window.location.href = "web-Developmentpage.html";
 
 })
 }
 
-let app=document.getElementById("App Development");
+let app=document.getElementById("App-Development");
 if(app)
 {
 app.addEventListener("click",()=>{
 
-window.location.href = "App development.html";
+window.location.href = "App-development.html";
 
 })
 }
 
-let digi=document.getElementById("Digital Marketing");
+let digi=document.getElementById("Digital-Marketing");
 if(digi)
 {
 digi.addEventListener("click",()=>{
 
-window.location.href = "Digital Marketing.html";
+window.location.href = "Digital-Marketing.html";
 
 })
 }
 
-let ar=document.getElementById("Ar & Vr");
+let ar=document.getElementById("Ar-Vr");
 if(ar)
 {
 ar.addEventListener("click",()=>{
 
-window.location.href = "Ar & Vr.html";
+window.location.href = "Ar-Vr.html";
 
 })
 }
 
-let td=document.getElementById("3D Modelling");
+let td=document.getElementById("3D-Modelling");
 if(td)
 {
 td.addEventListener("click",()=>{
 
-window.location.href = "3D Modelling.html";
+window.location.href = "3D-Modelling.html";
 
 })
 }
 
-let gd=document.getElementById("Game Development");
+let gd=document.getElementById("Game-Development");
 if(gd)
 {
 gd.addEventListener("click",()=>{
 
-window.location.href = "Game Development.html";
+window.location.href = "Game-Development.html";
 
 })
 }
